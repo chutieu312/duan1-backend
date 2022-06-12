@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Thu Huynh",
+        "email": "thuH@g.com",
+        "jobTitle": "BA",
+        "phone": "58331983789",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFHYuGvM_3xwA/profile-displayphoto-shrink_400_400/0/1630291804708?e=1659571200&v=beta&t=orS989Big0lruhgK1NW6CHMlAQ2OYFIubg_XZhhmy_A",
+        "employeeCode": "1dad305c-995f-4bb0-a1a7-0bd219a9d199"
+    },
+    {
+        "id": 3,
+        "name": "Phong V",
+        "email": "phong@g.com",
+        "jobTitle": "NodeJS",
+        "phone": "5833131233789",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5yjUuVNAxHQ/profile-displayphoto-shrink_400_400/0/1542230928750?e=1659571200&v=beta&t=B6bFFQFHjN4ZgWmpL0Ef5-8xxgrIZ8-FIXOib6K3Ffc",
+        "employeeCode": "d0f9bf6c-7264-4075-8665-6e74f0129aa0"
+    },
+    {
+        "id": 5,
+        "name": "Can Nguyen",
+        "email": "vodanhbantang@gmail.com",
+        "jobTitle": "Angular",
+        "phone": "6266274634",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHNRP-feqav6g/profile-displayphoto-shrink_100_100/0/1652210884906?e=1659571200&v=beta&t=lXJDAmjNAXlsgmkmgL6k0swYNeVhzygkbJ83FQhRBI0",
+        "employeeCode": "fe9df7a2-bb37-48b6-ae2e-42fdcfd604db"
+    },
+    {
+        "id": 2,
+        "name": "Anh Tuan Nguyen",
+        "email": "anhT@g.com",
+        "jobTitle": "C#",
+        "phone": "583313453789",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHK0w8A_56QlQ/profile-displayphoto-shrink_400_400/0/1544820981644?e=1659571200&v=beta&t=iMNq8pIl_txEQiEXcFAu6fZYdrQRzX2aN2OoHYtc_Es",
+        "employeeCode": "ea29ecf0-61f7-4145-9693-0b077826b5a0"
+    },
+    {
+        "id": 6,
+        "name": "Yves Bouele",
+        "email": "yves@gmail.com",
+        "jobTitle": "Chef",
+        "phone": "123456789",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEofk8GUe2MlA/profile-displayphoto-shrink_100_100/0/1640888730612?e=1659571200&v=beta&t=9Y70BNvim28U8GKH2CjMx5LZNy0mA4Y313CSBIFvA-o",
+        "employeeCode": "3fa681e8-ee2d-473e-b316-3a072f03b6b1"
+    }
+]
